@@ -29,10 +29,3 @@ A simple and clean full-stack Todo application built using React, Node.js, Expre
 ![Todoapp Demo](./frontend/public/Screenshot%202025-07-14%20232546.png)
 ![Todoapp Demo](./frontend/public/Screenshot%202025-07-14%20232705.png)
 
-
-
-> Add your screenshots in the `/screenshots` folder and display them below:
-
-```markdown
-![Todo App - Light Mode](./screenshots/todo-light.png)
-![Todo App - Task Completed](./screenshots/todo-completed.png)
