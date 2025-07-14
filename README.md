@@ -27,7 +27,6 @@ A simple and clean full-stack Todo application built using React, Node.js, Expre
 
 ## 📸 Screenshots
 ![Todoapp Demo](./frontend/public/Screenshot%202025-07-14%20232546.png)
-![Todoapp Demo](./frontend/public/Screenshot%202025-07-14%20232555.png)
 ![Todoapp Demo](./frontend/public/Screenshot%202025-07-14%20232705.png)
 
 
